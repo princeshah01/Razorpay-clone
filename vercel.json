@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/razorpay-clone/:path*",
+        "destination": "/:path*"
+      }
+    ]
+  }
+  
